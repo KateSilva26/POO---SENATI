@@ -103,3 +103,4 @@ print("- PAGO POR HORAS EXTRAS  :  ", "S/.", "{:.3f}".format(Boleta_Pago.PHExtra
 print("- SUELDO NETO            :  ", "S/.", "{:.3f}".format(Boleta_Pago.SNeto()))
 print("                                                                        ")
 
+
